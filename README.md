@@ -1,7 +1,7 @@
 # Binary_Multiplication
-This is my mini project for the course Computer Organization and Architecture (Sem-IV)
+* This is my mini project for the course "Computer Organization and Architecture" of semester-4 of B.E.
 
-The project aims to implement unsigned binary multiplication in C
+* The project aims to implement unsigned binary multiplication in C.
 
 ## Introduction
 * Multiplication involves the generation of partial products, one for each digit in the multiplier. These partial products are then summed to produce the final product.
